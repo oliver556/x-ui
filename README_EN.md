@@ -41,17 +41,17 @@ If you need more language options ,please open a issue and let me know that
 - support telegram bot notify and control
 - more functions in control menu  
 
-for more detailed usages,plz see [WIKI](https://github.com/FranzKafkaYu/x-ui/wiki)
+for more detailed usages,plz see [WIKI](https://github.com/oliver556/x-ui/wiki)
 
 # Installation
 Make sure your system `bash` and `curl` and `network` are ready,here we go
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/oliver556/x-ui/master/install.sh)
 ```  
 For English Users,please use the following command to install English supported version:  
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/FranzKafkaYu/x-ui/master/install_en.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/oliver556/x-ui/master/install_en.sh)
 ``` 
 
 ## Shortcut  
@@ -117,4 +117,4 @@ if you want to purchase some virtual servers,you can purchase by my aff link:
 
 ## Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/FranzKafkaYu/x-ui.svg)](https://starchart.cc/FranzKafkaYu/x-ui)
+[![Stargazers over time](https://starchart.cc/oliver556/x-ui.svg)](https://starchart.cc/oliver556/x-ui)
